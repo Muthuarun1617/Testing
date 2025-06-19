@@ -9,13 +9,13 @@ I'm a passionate **DevOps Engineer** with expertise in cloud infrastructure, CI/
 ## 🚀 Skills
 
 - **Cloud Platforms:** Azure, AWS
-- **CI/CD Tools:** Azure DevOps, GitHub Actions, Jenkins
-- **Containerization:** Docker, Kubernetes
-- **IaC Tools:** Terraform, ARM Templates
+- **CI/CD Tools:** Azure DevOps, GitHub Actions, GitLab
+- **Containerization:** Docker
+- **Container Orchestration:** Kubernetes
+- **IaC Tools:** Terraform
 - **Monitoring:** Prometheus, Grafana
-- **Scripting:** Bash, PowerShell
-- **Version Control:** Git, GitHub, GitLab
-- **Operating Systems:** Linux (Ubuntu, RHEL), Windows Server
+- **Version Control:** Git, GitHub
+- **Operating Systems:** Linux (Ubuntu, RHEL, CentOS), Windows Server
 
 ---
 
@@ -25,9 +25,7 @@ I'm a passionate **DevOps Engineer** with expertise in cloud infrastructure, CI/
 - **Frontend:** React with Docker
 - **Backend:** .NET API with Docker
 - **CI/CD:** Azure DevOps Pipelines for Build, Test, Deploy
-- **Infrastructure:** Terraform to provision Azure resources (App Service, Azure Container Registry, VNets)
-- **Monitoring:** Prometheus & Grafana for real-time monitoring and alerting
-- **Reverse Proxy:** Nginx configured with Docker
+
 
 ➡️ **GitHub Repo:** [github.com/username/project](https://github.com/username/project)
 
@@ -57,4 +55,4 @@ I'm a passionate **DevOps Engineer** with expertise in cloud infrastructure, CI/
 ---
 
 ## 📄 Resume
-➡️ [Download Resume (PDF)](https://your-portfolio-link/resume.pdf)
+
