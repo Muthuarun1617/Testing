@@ -21,38 +21,31 @@ I'm a passionate **DevOps Engineer** with expertise in cloud infrastructure, CI/
 
 ## 📂 Projects
 
-### 📌 Full DevOps Pipeline for .NET Backend & React Frontend
+### 🚀 Full Stack Microservices CI/CD Pipeline with Azure DevOps
+
+### Description:
+    - A fully automated CI/CD pipeline for deploying a Full Stack Microservices Application (Frontend & Backend) to Azure using Azure DevOps Pipelines. The project implements modern DevOps practices including PR validation, Docker builds, artifact management via Azure Container Registry (ACR), and automated deployments to Azure Container Apps (ACA).
+    
 - **Frontend:** React with Docker
 - **Backend:** .NET API with Docker
 - **CI/CD:** Azure DevOps Pipelines for Build, Test, Deploy
-
+- **Pull Request validation pipelines** - auto-pr.yml
+- **Deploy .NET API pipelines** - delopyapi.yml
+- **Deploy the React pipelines** - deploy.yml
 
 ➡️ **GitHub Repo:** [github.com/username/project](https://github.com/username/project)
 
 ---
 
-### 📌 Kubernetes Deployment on Azure AKS
-- Automated deployments with Helm charts.
-- Managed secrets using Azure Key Vault.
-- Configured auto-scaling and monitored metrics via Prometheus.
-
-➡️ **GitHub Repo:** [github.com/username/aks-deployment](https://github.com/username/aks-deployment)
-
----
-
-## 📚 Certifications
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Certified Kubernetes Administrator (CKA)** _(In Progress)_
-
----
 
 ## ✉️ Contact
 
-- **Email:** your.email@example.com
+- **Email:** mmuthuarun1@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** ([https://github.com/Muthuarun1617](https://github.com/Muthuarun1617/))
 
 ---
 
 ## 📄 Resume
 
+- **Download** :- https://drive.google.com/file/d/1Z_xP0eURpkVbDjrIuQq559SdXHJF32m_/view?usp=drive_link 
